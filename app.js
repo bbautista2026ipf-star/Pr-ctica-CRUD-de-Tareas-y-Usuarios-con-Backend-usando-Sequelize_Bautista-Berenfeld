@@ -25,3 +25,10 @@ const startServer = async () => {
 };
 
 startServer();
+
+import "dotenv/config";
+import express from "express";
+
+app.listen(process.env.PORT || 3000, () => {
+  console.log(`Servidor corriendo en el puerto ${process.env.PORT || 3000}`);
+});
