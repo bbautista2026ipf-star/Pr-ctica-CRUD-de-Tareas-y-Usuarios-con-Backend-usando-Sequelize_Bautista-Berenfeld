@@ -4,5 +4,24 @@
     "express": "^5.2.1",
     "mysql2": "^3.23.2",
     "sequelize": "^6.37.8"
-  }
+  },
+  "name": "project-root",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbautista2026ipf-star/Pr-ctica-CRUD-de-Tareas-y-Usuarios-con-Backend-usando-Sequelize_Bautista-Berenfeld.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbautista2026ipf-star/Pr-ctica-CRUD-de-Tareas-y-Usuarios-con-Backend-usando-Sequelize_Bautista-Berenfeld/issues"
+  },
+  "homepage": "https://github.com/bbautista2026ipf-star/Pr-ctica-CRUD-de-Tareas-y-Usuarios-con-Backend-usando-Sequelize_Bautista-Berenfeld#readme"
 }
